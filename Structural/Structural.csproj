@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Decorator\" />
+    <Folder Include="Adapter\" />
+    <Folder Include="Flyweight\" />
+    <Folder Include="Bridge\" />
+    <Folder Include="Facade\" />
+    <Folder Include="Proxy\" />
+  </ItemGroup>
+
+</Project>
