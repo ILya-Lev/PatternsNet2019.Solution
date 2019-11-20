@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational", "Creational\Cr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral", "Behavioral\Behavioral.csproj", "{45653C30-0028-498F-810A-3E3FB2C4786F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuralDemos", "StructuralDemos\StructuralDemos.csproj", "{73222CDD-79EA-49B0-A9EE-D659EA979F72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{45653C30-0028-498F-810A-3E3FB2C4786F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45653C30-0028-498F-810A-3E3FB2C4786F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45653C30-0028-498F-810A-3E3FB2C4786F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73222CDD-79EA-49B0-A9EE-D659EA979F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73222CDD-79EA-49B0-A9EE-D659EA979F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73222CDD-79EA-49B0-A9EE-D659EA979F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73222CDD-79EA-49B0-A9EE-D659EA979F72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
